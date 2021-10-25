@@ -1,4 +1,10 @@
-### Hi there, I'm hexwarrior-pixel 👋
+<h1 align="center"> Hi there, I'm Hexwarrior Pixel 👋</h1>
+
+
+<!-- <img align="right" width="300px" alt="WebDev" width="260px"
+src=""/> -->
+
+<img align="right" alt="img" width="370px" src="https://www.spinutech.com/webres/Image/web-design-development/articles/Web%20Dev-Blog.png" />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -6,12 +12,9 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 -   I love Web dev
 
-
-
-<img align="left" alt="WebDev" width="260px"
-src="https://www.spinutech.com/webres/Image/web-design-development/articles/Web%20Dev-Blog.png"/>
-
 <br />
+
+---
 
 ### Languages and Tools:
 
