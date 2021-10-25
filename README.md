@@ -4,12 +4,12 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
--  I love Web dev
+-   I love Web dev
 
 
 
 <img align="left" alt="WebDev" width="260px"
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fweb.dev%2F&psig=AOvVaw3aSKo2ANOTbwfwaoU74l0f&ust=1635252059433000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCfhe3K5fMCFQAAAAAdAAAAABAD"/>
+src="https://www.spinutech.com/webres/Image/web-design-development/articles/Web%20Dev-Blog.png"/>
 
 <br />
 
