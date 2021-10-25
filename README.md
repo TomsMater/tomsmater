@@ -8,7 +8,7 @@
 
 
 
-<img align="left" alt="Visual Studio Code" width="260px"
+<img align="left" alt="WebDev" width="260px"
 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fweb.dev%2F&psig=AOvVaw3aSKo2ANOTbwfwaoU74l0f&ust=1635252059433000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCfhe3K5fMCFQAAAAAdAAAAABAD"/>
 
 <br />
