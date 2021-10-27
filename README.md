@@ -11,7 +11,7 @@
 <img align="left" alt="WebDev" width="260px"
 src="https://www.spinutech.com/webres/Image/web-design-development/articles/Web%20Dev-Blog.png"/>
 <img align="centre" alt="Peaboy" width="400px"
-src="https://o.remove.bg/downloads/4154e8cf-00d4-4605-bf2a-b566db702252/cartoon-boy-images-1-removebg-preview.png"/>
+src="https://o.remove.bg/downloads/d57d4a8a-eb39-4ebb-9feb-23b98aa42ceb/image-removebg-preview.png"/>
 
 <br />
 
