@@ -1,20 +1,17 @@
-### Hi there, I'm hexwarrior-pixel 👋
+<h1> Hi there, I'm Hexwarrior-Pixel 👋 </h1>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 🥅 I love Web development
+<p> - 🌱 I’m currently learning everything 🤣</p>
+<p> - 👯 I’m looking to collaborate with other content creators </p>
+<p> - 🥅 2021 Goals: Contribute more to Open Source projects
+<p> - ⚡ Fun fact: I love to draw and play guitar / drums
+<p> - 🥅 I love Web development
 
 
 
 
 <img align="centre" alt="Anime.pic" width="400px"
 src="https://o.remove.bg/downloads/d57d4a8a-eb39-4ebb-9feb-23b98aa42ceb/image-removebg-preview.png"/>
-<style> body {
- background-image: url("https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg");
- background-color: #cccccc;
-}
+
 
 <br />
 
