@@ -2,9 +2,10 @@
 
 <p> - 🌱 I’m currently learning everything 🤣</p>
 <p> - 👯 I’m looking to collaborate with other content creators </p>
-<p> - 🥅 2021 Goals: Contribute more to Open Source projects
-<p> - ⚡ Fun fact: I love to draw and play guitar / drums
-<p> - 🥅 I love Web development
+<p> - 🥅 2021 Goals: Contribute more to Open Source projects </p>
+<p> - ⚡ Fun fact: I love to draw and play guitar / drums </p>
+<p> - 🥅 I love Web development </p>
+<p> - ⚡ Dreaming Of STUDYING in Harvard With My Bestie </p>
 
 
 
@@ -15,7 +16,7 @@ src="https://o.remove.bg/downloads/d57d4a8a-eb39-4ebb-9feb-23b98aa42ceb/image-re
 
 <br />
 
-### Languages and Tools:
+<h1> Languages and Tools: </h1>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,7 +32,7 @@ src="https://o.remove.bg/downloads/d57d4a8a-eb39-4ebb-9feb-23b98aa42ceb/image-re
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsWUUHZbgpladYr14YR7uowoQ4lY279oBkcS1em6o-uEtcuwrSpTlKGJooiJD4XwmK38&usqp=CAU" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
