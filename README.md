@@ -4,14 +4,17 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
--   I love Web dev
+- 🥅 I love Web development
 
 
 
-<img align="left" alt="WebDev" width="260px"
-src="https://www.spinutech.com/webres/Image/web-design-development/articles/Web%20Dev-Blog.png"/>
-<img align="centre" alt="Peaboy" width="400px"
+
+<img align="centre" alt="Anime.pic" width="400px"
 src="https://o.remove.bg/downloads/d57d4a8a-eb39-4ebb-9feb-23b98aa42ceb/image-removebg-preview.png"/>
+<style> body {
+ background-image: url("https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg");
+ background-color: #cccccc;
+}
 
 <br />
 
