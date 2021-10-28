@@ -3,15 +3,16 @@
 <p> - 🌱 I’m currently learning everything 🤣</p>
 <p> - 👯 I’m looking to collaborate with other content creators </p>
 <p> - 🥅 2021 Goals: Contribute more to Open Source projects </p>
-<p> - ⚡ Fun fact: I love to draw and play guitar / drums </p>
+<p> - ⚡ Fun fact: I Am A Apple Fan </p>
 <p> - 🥅 I love Web development </p>
 <p> - ⚡ Dreaming Of STUDYING in Harvard With My Bestie </p>
 
 
 
 
-<img align="centre"  width="400px"
-src="https://o.remove.bg/downloads/d57d4a8a-eb39-4ebb-9feb-23b98aa42ceb/image-removebg-preview.png"/>
+
+<img align="centre"  width="500px" padding="20px"
+src="https://media3.giphy.com/media/FPbnShq1h1IS5FQyPD/200w.webp?cid=ecf05e47u2cwqjcsasgv4k4t6u6diz6i5z4zk8d80igqoj8v&rid=200w.webp&ct=g"/>
 
 
 
