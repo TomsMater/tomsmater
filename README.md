@@ -3,7 +3,7 @@
 <p> - 🌱 I’m currently learning everything 🤣</p>
 <p> - 👯 I’m looking to collaborate with other content creators </p>
 <p> - 🥅 2021 Goals: Contribute more to Open Source projects </p>
-<p> - ⚡ Fun fact: I Am A Apple Fan </p>
+<p> - ⚡ Fun fact: I Am Interseted In Hacking, SQL Injection etc </p>
 <p> - 🥅 I love Web development </p>
 <p> - ⚡ Dreaming Of STUDYING in Harvard With My Bestie </p>
 
