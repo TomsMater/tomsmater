@@ -10,8 +10,9 @@
 
 
 
-<img align="centre" alt="Anime.pic" width="400px"
+<img align="centre"  width="400px"
 src="https://o.remove.bg/downloads/d57d4a8a-eb39-4ebb-9feb-23b98aa42ceb/image-removebg-preview.png"/>
+
 
 
 <br />
