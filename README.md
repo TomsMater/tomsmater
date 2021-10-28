@@ -6,6 +6,7 @@
 <p> - ⚡ Fun fact: I Am Interseted In Hacking, SQL Injection etc </p>
 <p> - 🥅 I love Web development </p>
 <p> - ⚡ Dreaming Of STUDYING in Harvard With My Bestie </p>
+    -  - <p align="left"> <img with="300px" src="https://komarev.com/ghpvc/?username=TapZze&label=Profile%20views&color=red&style=flat-square" alt="TapZze" /> </p>
 
 
 
