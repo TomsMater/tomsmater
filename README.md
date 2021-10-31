@@ -1,4 +1,10 @@
-<h1> Hi there, I'm Hexwarrior-Pixel 👋 </h1>
+<h1> Hi there, I'm ThomasMathew👋 </h1>
+
+
+
+<img align="centre"  width="800px" padding="20px"
+src="https://user-images.githubusercontent.com/84258378/139577642-1e622910-9277-428a-a324-1700bbb11b87.gif"/>
+ 
 
 <p> - 🌱 I’m currently learning everything 🤣</p>
 <p> - 👯 I’m looking to collaborate with other content creators </p>
@@ -12,8 +18,6 @@
 
 
 
-<img align="centre"  width="500px" padding="20px"
-src="https://media3.giphy.com/media/FPbnShq1h1IS5FQyPD/200w.webp?cid=ecf05e47u2cwqjcsasgv4k4t6u6diz6i5z4zk8d80igqoj8v&rid=200w.webp&ct=g"/>
 
 
 
