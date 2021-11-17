@@ -3,7 +3,7 @@
 
 
 <img align="centre"  width="800px" padding="20px"
-src="https://user-images.githubusercontent.com/84258378/139577642-1e622910-9277-428a-a324-1700bbb11b87.gif"/>
+src="https://user-images.githubusercontent.com/84258378/142140084-2d36bb6f-aeab-45e0-8483-2766c86e9a43.gif"/>
  
 
 <p> - 🌱 I’m currently learning everything 🤣</p>
