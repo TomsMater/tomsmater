@@ -2,7 +2,7 @@
 
 
 
-<img align="centre"  width="20000px" padding="50px"
+<img align="center" padding="50px"
 src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
 <p align="left"> 
@@ -32,7 +32,7 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 <p> - 🥅 2021 Goals: Contribute more to Open Source projects </p>
 <p> - ⚡ Fun fact: I Am Interseted In Hacking, SQL Injection etc </p>
 <p> - 🥅 I love Web development </p>
-<p> - ⚡ Dreaming Of STUDYING in Harvard With My Bestie </p>
+<p> - ⚡ Dreaming Of STUDYING in Harvard With My <a href="https://github.com/mjvbz">Bestie</a></p>
 <p>  -  ⚡ Wish Me On 10 July </p>
 
   
