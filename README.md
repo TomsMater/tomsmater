@@ -19,7 +19,7 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 
 </p>
 <br><hr>
-<img align="right" padding-bottom="100px" src="https://github-readme-stats.vercel.app/api?username=tomsmater&show_icons=true&theme=radical"/>
+<img align="right" padding-bottom="100px" src="https://github-readme-stats.vercel.app/api?username=tomsmater&show_icons=true&theme=tokyonight"/>
 <img align="right" src="https://komarev.com/ghpvc/?username=tomsmater"/>
 
 
