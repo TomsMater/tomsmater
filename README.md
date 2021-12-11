@@ -2,8 +2,8 @@
 
 
 
-<img align="centre"  width="600px" padding="50px"
-src="https://user-images.githubusercontent.com/84258378/142140084-2d36bb6f-aeab-45e0-8483-2766c86e9a43.gif"/>
+<img align="centre"  width="20000px" padding="50px"
+src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
  
 
 <p> - 🌱 I’m currently learning everything 🤣</p>
@@ -27,7 +27,7 @@ src="https://user-images.githubusercontent.com/84258378/142140084-2d36bb6f-aeab-
 
 <h1> Languages and Tools: </h1>
 
-<p align="left"> 
+<p align="top"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
