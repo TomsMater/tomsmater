@@ -19,7 +19,7 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 
 </p>
 <br><hr>
-<img align="right" padding-bottom="100px" src="https://github-readme-stats.vercel.app/api?username=tomsmater&show_icons=true&theme=tokyonight"/>
+<img align="right" padding="10px" src="https://github-readme-stats.vercel.app/api?username=tomsmater&show_icons=true&theme=tokyonight"/>
 <img align="right" src="https://komarev.com/ghpvc/?username=tomsmater"/>
 
 
@@ -30,11 +30,8 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 <p> - 🌱 I’m currently learning everything 🤣</p>
 <p> - 👯 I’m looking to collaborate with other content creators </p>                 
 <p> - 🥅 2021 Goals: Contribute more to Open Source projects </p>
-
-
 <p> - ⚡ Fun fact: I Am Interseted In Hacking, SQL Injection etc </p>
 <p> - 🥅 I love Web development </p>
-
 <p> - ⚡ Dreaming Of STUDYING in Harvard With My Bestie </p>
 <p>  -  ⚡ Wish Me On 10 July </p>
 
