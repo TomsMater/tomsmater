@@ -41,5 +41,5 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 
 ---
   
- ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tomsmater/tomsmater/blob/output/github-contribution-grid-snake.gif)
 ---
