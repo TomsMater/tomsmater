@@ -32,6 +32,7 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 <p> - 🥅 2021 Goals: Contribute more to Open Source projects </p>
 <p> - ⚡ Fun fact: I Am Interseted In Hacking, SQL Injection etc </p>
 <p> - 🥅 I love Web development </p>
+
 <p> - ⚡ Dreaming Of STUDYING in Harvard With My Bestie </p>
 <p>  -  ⚡ Wish Me On 10 July </p>
 
