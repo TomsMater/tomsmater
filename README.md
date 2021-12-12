@@ -26,7 +26,7 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 ---
 
  
-```
+```javascript
 const tomsmater = {
   pronouns: "He" | "Him",
   code: [Javascript, SCSS, HTML, CSS,  React, Python],
