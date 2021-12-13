@@ -31,7 +31,7 @@ const tomsmater = {
   pronouns: "He" | "Him",
   code: [Javascript, SCSS, HTML, CSS,  React, Python],
   tools: [React, Github, Canva, Styled-Components, Docker],
-  Aim: [I want to study from harvard and work in Google/Meta],
+  Aim: "I want to study from harvard and work in Google/Meta"
  
  challenge: "I am trying to learn #deeperintolanguages"
 }
