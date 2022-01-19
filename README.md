@@ -26,17 +26,11 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 ---
 
  
-```javascript
-const tomsmater = {
-  pronouns: "He" | "Him",
-  code: [Javascript, SCSS, HTML, CSS,  React, Python],
-  tools: [React, Github, Canva, Styled-Components, Docker],
- 
- Dream: "I want to study from harvard and work in Google/Meta"
- challenge: "I am trying to learn #deeperintolanguages"
-}
-```
-  
+- Just a Random Dude Who does Coding and some other stuff
+- My dream is to study in Harvard with my BestFriend
+- I Mostly Work(By work i literally mean play) with HTML,CSS,JS,SCSS,REACT etc.
+- I dont usually post stuff in github
+- Bestie = <a href="https://github.com/mjvbz">This Guy</a>
   
 
 
